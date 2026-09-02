@@ -1,0 +1,5 @@
+.snakemake/
+references/
+quants/
+results/
+.DS_Store
