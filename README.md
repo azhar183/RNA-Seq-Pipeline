@@ -1,5 +1,5 @@
 cat << 'EOF' > README.md
-# Automated End-to-End RNA-Seq Bioinformatics Pipeline
+# Automated End-to-End RNA-Seq Pipeline
 
 A fully reproducible, automated bulk RNA-Seq analysis pipeline built using **Snakemake**, **Conda/Mamba**, and **R (DESeq2)**. This pipeline handles raw FASTQ inputs all the way to differential gene expression analysis and data visualization.
 
